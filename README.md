@@ -24,6 +24,7 @@ The app, `BluetoothCarControl_SP.apk`, is developed using MIT App Inventor and i
 ## Resources
 - **Blog:** [Advanced Autonomous and Bluetooth-Controlled Car](https://omartronics.com/building-an-advanced-autonomous-and-remote-controlled-robot-car-with-arduino-mega-ultrasonic-sensors-and-adafruit-motor-shield/)
 - **Youtube:** [Advanced Autonomous and Bluetooth-Controlled Car](https://youtu.be/Q5qgsgQIZOw?si=uoOh5d__6ADlRHmj)
+- **STL Files:** [Advanced Autonomous and Bluetooth-Controlled Car](https://cults3d.com/:2336371)
 - **Arduino Code:** Available in this repository
 - **App Files:** `BluetoothCarControl_SP.apk` and `BluetoothCarControl_SP.aia`
 
